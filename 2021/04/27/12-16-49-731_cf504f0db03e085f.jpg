@@ -1,0 +1,37 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Майдан онлайн: Киев, веб-камера</title>
+<style>@import url(http://fonts.googleapis.com/css?family=Open+Sans+Condensed:700&subset=latin,cyrillic-ext);}</style>
+</head>
+<body>
+<div style="border:solid 1px #ccc; border-radius:20px;padding:10px;overflow:hidden;margin:8px;width:1180px;margin:auto;box-shadow:2px 2px 7px #aaa;background:#F5F5F5; font-family:Arial;font-size:14px;">
+<h1>Майдан онлайн: Киев, веб-камера</h1>
+<p>Здесь приведена онлайн-трансляция Майдана Незалежности по веб-камере из Города Киева.</p>
+<object width="590" height="364" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000">  <param name="flashvars" value="cid=16573315&amp;autoplay=false"/>  <param name="allowfullscreen" value="true"/>  <param name="allowscriptaccess" value="always"/>  <param name="src" value="http://www.ustream.tv/flash/viewer.swf"/>  <embed flashvars="cid=16573315&amp;autoplay=true" width="590" height="364" allowfullscreen="true" allowscriptaccess="always" src="http://www.ustream.tv/flash/viewer.swf" type="application/x-shockwave-flash"></embed></object>
+
+<h2>Еще о майдане</h2>
+<ul>
+<li><a onclick="window.open(this.href);return false;" href="http://pressorg24.com/politics/veb-kamera-na-maidan-nezalezhnosti-kiev-onlain-video">Веб-камера Майдана в Киеве на сайте ПрессОрг</a></li>
+<li><a onclick="window.open(this.href);return false;" href="http://pressorg24.com/politics/espresso-tv-onlain-translyatsiya-maidana-v-gorode-kieve-pryamoi-efir">"Эспрессо-ТВ" онлайн</a></li>
+<li><a onclick="window.open(this.href);return false;" href="http://pressorg24.com/politics/evromaidan-onlain-gromadske-tv-online-translyaciya">"Громадьске ТВ" - прямой эфир</a></li>
+<li><a href="/2342-kirillovka.html">Кирилловка онлайн</a></li>
+</ul>
+
+<p>Вы искали другой сайт? Да, он когда-то был, но сейчас его уже не существует. Если он Вам сильно нужен, воспользуйтесь веб-архивом. Ну или посмотрите кучу "новостей", среди которых есть, чем развлечься. Как говориться, не Майданом единым Жива Нэнька.</p>
+
+<script src="http://pressorg24.com/misc/js/smibtm.js" type="text/javascript"></script>
+</div>
+<!--LiveInternet counter--><script type="text/javascript"><!--
+document.write("<a href='http://www.liveinternet.ru/click' "+
+"target=_blank><img src='//counter.yadro.ru/hit?t26.6;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet: �������� ����� ����������� ��"+
+" �������' "+
+"border='0' width='88' height='15'><\/a>")
+//--></script><!--/LiveInternet-->
+</body>
+</html>
